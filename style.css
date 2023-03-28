@@ -7,8 +7,17 @@
     height: 300px;
 }
 
+._container-profile{
+    background-color:rgb(26, 188, 156) ;
+}
+
 ._container-cards{
     margin-top: 150px;
+}
+
+._container-about{
+    margin-top: 150px;
+    background-color:rgb(26, 188, 156);
 }
 
 .img-card{
