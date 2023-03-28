@@ -1,7 +1,14 @@
-._nav{
-    background-color: rgb(44, 62, 80);
-    color: white;
+._container-nav{
+    background-color: rgb(44, 62, 80) !important;
 }
+
+nav a, span,.navbar-toggler-icon{
+    color: white !important;
+}
+
+/* .navbar-toggler{
+    border:1px solid white;
+} */
 
 ._profile-pic img{
     height: 300px;
@@ -9,6 +16,7 @@
 
 ._container-profile{
     background-color:rgb(26, 188, 156) ;
+    color: white;
 }
 
 ._container-cards{
@@ -18,9 +26,26 @@
 ._container-about{
     margin-top: 150px;
     background-color:rgb(26, 188, 156);
+    color: white;
+    margin-bottom: 70px;
+}
+
+._container-social{
+    background-color:rgb(58, 84, 109) ;
+    color: white;
+    margin-top: 20px;
+}
+
+._container-footer{
+    background-color: rgb(44, 62, 80);
+    color: white;
 }
 
 .img-card{
     height: 300px;
     padding: 20px;
+}
+
+span{
+    margin-left: 10px;
 }
