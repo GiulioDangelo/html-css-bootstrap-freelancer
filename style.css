@@ -10,3 +10,8 @@
 ._container-cards{
     margin-top: 150px;
 }
+
+.img-card{
+    height: 300px;
+    padding: 20px;
+}
