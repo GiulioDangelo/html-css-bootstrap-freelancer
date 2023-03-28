@@ -53,3 +53,42 @@ span{
 .btn-primary{
     background-color:rgb(26, 188, 156) ;
 }
+
+
+/*TODO:add star line
+
+.star{
+    position: relative;
+}
+
+.star::before{
+    content: "";
+    display: block;
+    height: 4px;
+    width: 80px;
+    background-color: white;
+    position: absolute;
+    left: 24px;
+    bottom: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.star::after{
+    content: "";
+    display: block;
+    height: 4px;
+    width: 80px;
+    background-color: white;
+    position: absolute;
+    right: 24px;
+    bottom: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.star::after{
+    background-color: black;
+} */
