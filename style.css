@@ -1,0 +1,22 @@
+.nav{
+    background-color: rgb(44, 62, 80);
+    color: white;
+}
+
+.list-nav{
+    height: 100%;
+    display: flex;
+}
+
+.list-nav li{
+    /* display: flex; */
+    list-style: none;
+    align-items: center;
+}
+
+.list-nav li a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+}
