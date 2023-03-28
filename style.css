@@ -2,3 +2,11 @@
     background-color: rgb(44, 62, 80);
     color: white;
 }
+
+._profile-pic img{
+    height: 300px;
+}
+
+._container-cards{
+    margin-top: 150px;
+}
